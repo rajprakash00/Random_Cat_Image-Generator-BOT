@@ -1,7 +1,7 @@
 ### Random_Cat_Image-Generator-BOT
 ##### This is a telegram bot which gives you random images of cat as many times as you want
 <b>USAGE:</b>
-First search for <code>@Cat Generator_00</code> in telegram
+First search for <code>@Cat Generator_00</code> in telegram and press <b>START</b>
 
 Then just type <code>/boc</code> and send the message to get random images of cat with some text.
  
